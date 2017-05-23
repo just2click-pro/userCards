@@ -13,4 +13,4 @@ Netcraft User Local Storage Cards web-page **Home Work** Project for NetCraft's 
 
 ### Project Page
 
-[userCards](https://just2netcraft.github.io/userCards/)
+Clone this project and run it with webpack-dev-server
